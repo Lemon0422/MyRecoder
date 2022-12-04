@@ -11,3 +11,5 @@
 ## 4 Image Processing
 
 ## 5 Hardware Architecture
+
+## 6 Tips
