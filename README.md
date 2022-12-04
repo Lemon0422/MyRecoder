@@ -10,4 +10,4 @@
 
 ## 4 Image Processing
 
-## 5 Hardware Info
+## 5 Hardware Architecture
