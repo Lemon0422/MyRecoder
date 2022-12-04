@@ -9,3 +9,5 @@
 ## 3 Operating System
 
 ## 4 Image Processing
+
+## 5 Hardware Info
