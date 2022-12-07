@@ -12,4 +12,6 @@
 
 ## 5 Hardware Architecture
 
-## 6 Tips
+## 6 AI
+ 
+## 7 Tips
